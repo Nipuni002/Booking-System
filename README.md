@@ -57,6 +57,11 @@
 - **Booking Management** - Oversee all bookings and reservations
 - **Revenue Tracking** - System-wide financial analytics
 
+  ### 📦 Package Booking
+- **Admin-managed packages** - Administrators can create and manage travel packages (bundled accommodations, transport, and extras) from the admin dashboard.
+- **User bookings** - Travelers can browse available packages, view package details, and book packages.
+- **Group & single bookings:** Support for individual and group package bookings, with booking records visible to admins and users.
+
 ### 🎨 Modern UI/UX
 - **Responsive Design** built with React
 - **Smooth Animations** using Framer Motion
@@ -222,7 +227,7 @@ REACT_APP_PAYPAL_CLIENT_ID=your-paypal-client-id
 
 ### Traveler (User)
 - ✅ Browse and search properties
-- ✅ Book properties and vehicles
+- ✅ Book properties,vehicles and packages
 - ✅ Make payments via PayPal
 - ✅ Leave reviews and ratings
 - ✅ View booking history
